@@ -1,0 +1,32 @@
+﻿  Boss.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  BossAttack.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  BossAttack2.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  Bullet.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  CSound.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  Effect.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  GameState.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  Hero.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  item.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  LogoState.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  main.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  MenuState.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  Monster.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  State.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  StateCtrl.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  Unit.cpp
+C:\Users\skill4\Downloads\State Add Console\Console-Shooting-Game-master\2018_06_12_02_State\console\CSound.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
